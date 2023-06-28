@@ -1,0 +1,7 @@
+.env
+urs.odt
+urs.pdf
+test_document.ods
+test_document.pdf
+*.swp
+/vendor

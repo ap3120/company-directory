@@ -1,0 +1,7 @@
+select {
+    max-width: 400px;
+}
+
+.right {
+    text-align: end;
+}
